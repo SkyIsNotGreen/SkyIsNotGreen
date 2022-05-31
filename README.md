@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Node.js, along with general back-end development.**
 
-- 👨‍💻 All of my projects are available at: [skyisnotgreen.github.io/Portfolio-website/](skyisnotgreen.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at: [skyisnotgreen.github.io/Portfolio-website](skyisnotgreen.github.io/Portfolio-website/)
 
 - 📫 How to reach me: **r.palmer@outlook.com**
 
